@@ -1,32 +1,32 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> FANTASTICS BOT </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
-<h4 align="center"> ✔️ Fixed Heroku Ban! ✔️</h4> 
+<h4 align="center"> ✔️ BEST FEATURE EVER ✔️</h4> 
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://youtube.com/@DUDUU_MENDEZ">
+    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/71ce7bc2c1af81cbc7df7.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://github.com/duduumendez2/FANTASTICS-BOT/fork">
+    <img src="https://img.shields.io/github/forks/duduumendez2/FANTASTICS-BOT?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/duduumendez2/FANTASTICS-BOT/stargazers"> 
+     <img src="https://img.shields.io/github/stars/duduumendez2/FANTASTICS-BOT?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="FANTASTICS BOT is free to use" href="https://youtube.com/@DUDUU_MENDEZ" target="_blank">
+    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/tCIc7cBXBgPlpMy7" target="_blank" />
   </a>
 
 </p>
@@ -34,10 +34,10 @@
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/duduumendez2">
+ <img title="Owner" src="https://img.shields.io/badge/duduumendez2-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/duduumende2">
+    <img src="https://img.shields.io/github/followers/duduumendez2?style=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> FANTASTICS BOT whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/duduumendez2/FANTASTICS-BOT"><b>FANTASTICS BOT</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/SuhailTechInfo/Suhail-Md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/duduumendez2/FANTASTICS-BOT/issues">issue</a></p>
 
  
 
@@ -145,10 +145,10 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *FANTASTICS-BOT is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use FANTASTICS-BOT at your own risk by keeping this warning in mind.*
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: ONCE MENDEZ FOREVER MENDEZ
