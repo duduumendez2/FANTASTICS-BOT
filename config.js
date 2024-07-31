@@ -26,7 +26,7 @@ global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ 
 
 global.devs = "255749750707" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "255749750707";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "255763782257";
 
 
 
@@ -56,13 +56,13 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,255xxxxxxxx";
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,255xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "255749750707";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "255763782257";
 
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID  
+global.SESSION_ID = process.env.SESSION_ID ||  "SUHAIL_19_00_07_31_ewogICJjcmVkcy5qc29uIjogIntcbiAgXCJub2lzZUtleVwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgNzIsXG4gICAgICAgIDI2LFxuICAgICAgICA1MyxcbiAgICAgICAgNTIsXG4gICAgICAgIDI4LFxuICAgICAgICAyNTMsXG4gICAgICAgIDEzMCxcbiAgICAgICAgMyxcbiAgICAgICAgMjE2LFxuICAgICAgICAxNTAsXG4gICAgICAgIDE2OSxcbiAgICAgICAgNjEsXG4gICAgICAgIDk1LFxuICAgICAgICA5OSxcbiAgICAgICAgMTM2LFxuICAgICAgICAyMjYsXG4gICAgICAgIDExOSxcbiAgICAgICAgMjA1LFxuICAgICAgICA3NyxcbiAgICAgICAgMjUyLFxuICAgICAgICAyMjIsXG4gICAgICAgIDE3LFxuICAgICAgICAxNjIsXG4gICAgICAgIDg1LFxuICAgICAgICAxNzMsXG4gICAgICAgIDIyNCxcbiAgICAgICAgMTM4LFxuICAgICAgICAxMjgsXG4gICAgICAgIDIwOSxcbiAgICAgICAgNjksXG4gICAgICAgIDUyLFxuICAgICAgICAxMTBcbiAgICAgIF1cbiAgICB9LFxuICAgI"  // PUT your SESSION_ID  
 
 module.exports = {
 
